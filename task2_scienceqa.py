@@ -33,9 +33,11 @@ class ScienceQAEvaluator:
         print(f"使用设备: {self.device}")
         print(f"4-bit量化: {use_4bit}")
         
+        # Load processor with use_fast=False to avoid compatibility issues
         self.processor = AutoProcessor.from_pretrained(
             model_name,
-            trust_remote_code=True
+            trust_remote_code=True,
+            use_fast=False
         )
         
         if use_4bit:
