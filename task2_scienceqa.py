@@ -24,7 +24,7 @@ matplotlib.rcParams["axes.unicode_minus"] = False
 class ScienceQAEvaluator:
     """ScienceQA 多模态问答评测器"""
     
-    def __init__(self, model_name: str = "Qwen/Qwen2-VL-7B-Instruct", use_4bit: bool = True):
+    def __init__(self, model_name: str = "/root/autodl-tmp/models/Qwen2-VL-7B-Instruct", use_4bit: bool = True):
         self.model_name = model_name
         self.use_4bit = use_4bit
         self.device = "cuda" if torch.cuda.is_available() else "cpu"

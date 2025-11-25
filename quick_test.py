@@ -38,7 +38,7 @@ def test_task1(num_samples: int = 3) -> None:
 def test_task2(num_samples: int = 3) -> None:
     print("\n===== Quick Test: Task 2 (ScienceQA) =====")
     evaluator = ScienceQAEvaluator(
-        model_name="Qwen/Qwen2-VL-7B-Instruct",
+        model_name="/root/autodl-tmp/models/Qwen2-VL-7B-Instruct",
         use_4bit=True,
     )
 
