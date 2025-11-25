@@ -10,6 +10,7 @@ import re
 import random
 from tqdm import tqdm
 import json
+import os
 from typing import Dict, List
 from PIL import Image
 from qwen_vl_utils import process_vision_info
@@ -184,10 +185,16 @@ class ScienceQAEvaluator:
         
         return generated_text
     
-    def evaluate(self, samples: List[Dict], save_results: bool = True) -> Dict:
+    def evaluate(self, samples: List[Dict], save_results: bool = True, save_images: bool = True) -> Dict:
         correct = 0
         total = len(samples)
         results = []
+        
+        # Create directory for saving images
+        if save_images:
+            images_dir = "task2_sample_images"
+            os.makedirs(images_dir, exist_ok=True)
+            print(f"图片将保存到: {images_dir}/")
         
         print(f"\n开始评估 {total} 条样本...")
         
@@ -210,6 +217,13 @@ class ScienceQAEvaluator:
                 if is_correct:
                     correct += 1
                 
+                # Save image if enabled
+                image_filename = None
+                if save_images:
+                    image_filename = f"sample_{i:03d}.png"
+                    image_path = os.path.join(images_dir, image_filename)
+                    image.save(image_path)
+                
                 result = {
                     "index": i,
                     "question": question,
@@ -217,7 +231,8 @@ class ScienceQAEvaluator:
                     "ground_truth": ground_truth,
                     "predicted": predicted,
                     "generated_text": generated,
-                    "correct": is_correct
+                    "correct": is_correct,
+                    "image_path": image_filename if save_images else None
                 }
                 results.append(result)
                 
