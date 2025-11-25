@@ -15,7 +15,8 @@
       "ground_truth": "B",
       "predicted": "B",
       "generated_text": "B. The magnitude of the magnetic force is smaller in Pair 1.\n\n理由：磁力的大小与磁体之间的距离成反比。在Pair 1中，磁体之间的距离更小，因此磁力更大。在Pair 2中，磁体之间的距离更大，因此磁力更小。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_000.png"
     },
     {
       "index": 1,
@@ -29,7 +30,8 @@
       "ground_truth": "A",
       "predicted": "A",
       "generated_text": "A. Salem\n\n理由：Salem是俄勒冈州的首府。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_001.png"
     },
     {
       "index": 2,
@@ -42,7 +44,8 @@
       "ground_truth": "C",
       "predicted": "C",
       "generated_text": "C. Asia\n\n理由：图片中，亚洲大陆被突出显示，颜色为深绿色。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_002.png"
     },
     {
       "index": 3,
@@ -54,7 +57,8 @@
       "ground_truth": "B",
       "predicted": "B",
       "generated_text": "B. sand martin\n\n理由：图片中的鸟是欧洲夜鹰（European nightjar），它是一种以昆虫为食的鸟类。欧洲夜鹰的喙形状适于捕捉昆虫，因此选项B是正确的。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_003.png"
     },
     {
       "index": 4,
@@ -68,7 +72,8 @@
       "ground_truth": "D",
       "predicted": "D",
       "generated_text": "D. Concord\n\n理由：Concord是新罕布什尔州的首府。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_004.png"
     },
     {
       "index": 5,
@@ -81,7 +86,8 @@
       "ground_truth": "B",
       "predicted": "B",
       "generated_text": "B. Africa\n\n理由：赤道穿过非洲大陆，因此非洲是唯一一个赤道穿过其领土的大陆。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_005.png"
     },
     {
       "index": 6,
@@ -94,7 +100,8 @@
       "ground_truth": "C",
       "predicted": "C",
       "generated_text": "C. Ambystoma opacum\n\n理由：Axolotl 的科学名称是 Ambystoma mexicanum，而选项 C 提供的是一种属于同一属的物种，即 Ambystoma opacum。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_006.png"
     },
     {
       "index": 7,
@@ -106,7 +113,8 @@
       "ground_truth": "B",
       "predicted": "B",
       "generated_text": "B. helmeted iguana\n\n理由：图片中展示的是一条蛇，而选项B（Helmeted Iguana）是一种爬行动物，符合题意。选项A（Clownfish）是一种鱼类，不符合题意。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_007.png"
     },
     {
       "index": 8,
@@ -120,7 +128,8 @@
       "ground_truth": "D",
       "predicted": "C",
       "generated_text": "C. the Marshall Islands\n\n理由：图片中被绿色边框突出显示的国家是马绍尔群岛（the Marshall Islands）。",
-      "correct": false
+      "correct": false,
+      "image_path": "sample_008.png"
     },
     {
       "index": 9,
@@ -132,7 +141,8 @@
       "ground_truth": "A",
       "predicted": "B",
       "generated_text": "B. each vial . . . the surroundings\n\n理由：根据表格中的数据，两个不同位置的安瓿在15分钟内温度都升高了。这意味着它们从周围环境吸收了热量，导致温度升高。因此，热量从周围环境转移到了每个安瓿。",
-      "correct": false
+      "correct": false,
+      "image_path": "sample_009.png"
     },
     {
       "index": 10,
@@ -144,7 +154,8 @@
       "ground_truth": "A",
       "predicted": "A",
       "generated_text": "A. sedimentary\n\n理由：Shale is a type of sedimentary rock. It forms when layers of mud are pressed together to form rock. Shale is often found near underground deposits of fossil fuels such as oil.",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_010.png"
     },
     {
       "index": 11,
@@ -158,7 +169,8 @@
       "ground_truth": "B",
       "predicted": "A",
       "generated_text": "A. Austin can trade his almonds for Shivani's tomatoes.\n\n理由：根据图片，Shivani想要西红柿，而Austin想要杏仁。通过交换，他们可以互相得到对方想要的物品。",
-      "correct": false
+      "correct": false,
+      "image_path": "sample_011.png"
     },
     {
       "index": 12,
@@ -171,7 +183,8 @@
       "ground_truth": "A",
       "predicted": "A",
       "generated_text": "A. a solid\n\n冰柱是一种固体，因为它是由水冻结而成的。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_012.png"
     },
     {
       "index": 13,
@@ -183,7 +196,8 @@
       "ground_truth": "A",
       "predicted": "A",
       "generated_text": "A. transparent\n\n理由：玻璃瓶是透明的，可以透过玻璃看到里面的液体。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_013.png"
     },
     {
       "index": 14,
@@ -195,7 +209,8 @@
       "ground_truth": "B",
       "predicted": "B",
       "generated_text": "B. toward the sled dog team\n\n理由：图片中显示了一群狗拉雪橇，它们正在向前拉雪橇。因此，拉力的方向是向雪橇队的方向。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_014.png"
     },
     {
       "index": 15,
@@ -209,7 +224,8 @@
       "ground_truth": "C",
       "predicted": "A",
       "generated_text": "A. Los Angeles\n\n理由：地图上标记的城市位于美国的西部，靠近加利福尼亚州。选项A（洛杉矶）是加利福尼亚州的一个大城市，符合地图上的标记位置。",
-      "correct": false
+      "correct": false,
+      "image_path": "sample_015.png"
     },
     {
       "index": 16,
@@ -221,7 +237,8 @@
       "ground_truth": "B",
       "predicted": "A",
       "generated_text": "A. true\n\n理由：根据图片中的数据，木星的体积是1.43 x 10^15 km^3，而火星的体积是1.63 x 10^11 km^3。将木星的体积除以火星的体积，得到大约10,000。因此，木星的体积确实比火星的体积大10,000倍。",
-      "correct": false
+      "correct": false,
+      "image_path": "sample_016.png"
     },
     {
       "index": 17,
@@ -235,7 +252,8 @@
       "ground_truth": "B",
       "predicted": "B",
       "generated_text": "B. Africa\n\n理由：图片中被高亮显示的大陆是非洲。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_017.png"
     },
     {
       "index": 18,
@@ -247,7 +265,8 @@
       "ground_truth": "A",
       "predicted": "A",
       "generated_text": "A. Do ping pong balls travel farther when launched from a 30° angle compared to a 45° angle?\n\n理由：Jaden and Ron's experiment involved launching ping pong balls from two different angles (30° and 45°) and measuring the distance each ball traveled. By comparing the distances, they could determine if there was a difference in the distance traveled based on the angle of launch. This experiment is designed to answer the question of whether ping pong balls travel farther when launched from a 30° angle compared to a 45° angle.",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_018.png"
     },
     {
       "index": 19,
@@ -260,7 +279,8 @@
       "ground_truth": "B",
       "predicted": "B",
       "generated_text": "B. transparent\n\n理由：这三个物体（玻璃杯、玻璃烧瓶和水）都有透明的特性。它们都可以透过光线，让光线通过。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_019.png"
     },
     {
       "index": 20,
@@ -272,7 +292,8 @@
       "ground_truth": "B",
       "predicted": "B",
       "generated_text": "B. It has warm summers and warm winters. It also has soil that is poor in nutrients.\n\n理由：Serengeti National Park is a savanna grassland ecosystem located in Tanzania, which is in eastern Africa. The savanna grassland is characterized by its warm summers and warm winters, as well as soil that is poor in nutrients. Therefore, the correct answer is B.",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_020.png"
     },
     {
       "index": 21,
@@ -286,7 +307,8 @@
       "ground_truth": "C",
       "predicted": "C",
       "generated_text": "C. Fiji\n\n理由：图片中被绿色边框突出显示的国家是斐济（Fiji）。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_021.png"
     },
     {
       "index": 22,
@@ -298,7 +320,8 @@
       "ground_truth": "B",
       "predicted": "B",
       "generated_text": "B. It has many evergreen trees. It also has soil that is poor in nutrients.\n\n理由：Cape Breton Highlands National Park is a taiga ecosystem, which is characterized by cold, long winters and short, cool summers. The taiga is also known for its poor soil, which is often acidic and nutrient-poor. The park is located in eastern Canada, where the climate is generally cool and the soil is often poor in nutrients. The park is also known for its many evergreen trees, which are well adapted to the cold, dry conditions of the taiga.",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_022.png"
     },
     {
       "index": 23,
@@ -312,7 +335,8 @@
       "ground_truth": "B",
       "predicted": "B",
       "generated_text": "B. Virginia\n\n理由：根据地图上的颜色和位置，显示的殖民地是弗吉尼亚州。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_023.png"
     },
     {
       "index": 24,
@@ -324,7 +348,8 @@
       "ground_truth": "B",
       "predicted": "B",
       "generated_text": "B. Eurasian spoonbill\n\n理由：图片中的动物是火烈鸟，它们的腿是适应涉水的。它们的腿轻巧，可以保持身体在水中，这是涉水动物的典型特征。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_024.png"
     },
     {
       "index": 25,
@@ -338,7 +363,8 @@
       "ground_truth": "B",
       "predicted": "B",
       "generated_text": "B. Nashville\n\n理由：田纳西州的首都是纳什维尔（Nashville）。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_025.png"
     },
     {
       "index": 26,
@@ -352,7 +378,8 @@
       "ground_truth": "D",
       "predicted": "A",
       "generated_text": "A. Colin can trade his broccoli for Austin's oranges.\n\n理由：根据图片中的信息，Austin想要橙子，而Colin有橙子。因此，Colin可以用他的橙子交换Austin的西兰花，这样他们都能得到他们想要的物品。",
-      "correct": false
+      "correct": false,
+      "image_path": "sample_026.png"
     },
     {
       "index": 27,
@@ -366,7 +393,8 @@
       "ground_truth": "A",
       "predicted": "A",
       "generated_text": "A. Phoenix\n\n理由：Phoenix是亚利桑那州的首府。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_027.png"
     },
     {
       "index": 28,
@@ -378,7 +406,8 @@
       "ground_truth": "A",
       "predicted": "A",
       "generated_text": "A. a compound\n\n理由：氢过氧化物（H2O2）是由两种元素（氢和氧）组成的化合物，因此它是一个化合物。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_028.png"
     },
     {
       "index": 29,
@@ -392,7 +421,8 @@
       "ground_truth": "B",
       "predicted": "B",
       "generated_text": "B. Montpelier\n\n理由：蒙彼利埃（Montpelier）是美国佛蒙特州的首府。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_029.png"
     },
     {
       "index": 30,
@@ -405,7 +435,8 @@
       "ground_truth": "B",
       "predicted": "B",
       "generated_text": "B. It has soil that is poor in nutrients.\n\n理由：根据图片中的描述，Yasuni National Park位于亚马逊雨林中，亚马逊雨林是一个生态系统，其中包含许多不同种类的植物、鸟类和哺乳动物。然而，图片中并没有显示任何关于土壤肥沃程度的信息。因此，我们无法确定Yasuni National Park的土壤肥沃程度。但是，根据常识，亚马逊雨林的土壤通常贫瘠，因为雨林中的植物需要吸收大量的营养物质，而这些营养物质通常来自于土壤。因此，我们可以推断Yasuni National Park的土壤贫瘠。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_030.png"
     },
     {
       "index": 31,
@@ -417,7 +448,8 @@
       "ground_truth": "B",
       "predicted": "B",
       "generated_text": "B. Sumatran orangutan\n\n理由：图片中的动物是黑猩猩，它们生活在非洲中部的森林中。黑猩猩的四肢适应了攀爬树木。因此，选项B（苏门答腊猩猩）是正确的，因为苏门答腊猩猩也是生活在森林中的动物，它们的四肢也适应了攀爬树木。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_031.png"
     },
     {
       "index": 32,
@@ -430,7 +462,8 @@
       "ground_truth": "A",
       "predicted": "A",
       "generated_text": "A. Caprimulgus macrurus\n\n理由：欧洲夜鹰（Caprimulgus europaeus）属于夜鹰科（Caprimulgidae），而选项A中的Caprimulgus macrurus也是夜鹰科的一种。因此，它们属于同一属。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_032.png"
     },
     {
       "index": 33,
@@ -442,7 +475,8 @@
       "ground_truth": "B",
       "predicted": "B",
       "generated_text": "B. toward the magnet\n\n理由：图片中的磁铁（马蹄形磁铁）正在吸引纸夹，磁力的方向是从磁铁吸引物体的方向，因此纸夹被吸引向磁铁。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_033.png"
     },
     {
       "index": 34,
@@ -455,7 +489,8 @@
       "ground_truth": "B",
       "predicted": "B",
       "generated_text": "B. how long it would take the sample fabric to dry after it absorbed one drop of water\n\n理由：根据图片中的描述，斯坦利测试了样品织物在吸收一滴水后干燥所需的时间。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_034.png"
     },
     {
       "index": 35,
@@ -469,7 +504,8 @@
       "ground_truth": "B",
       "predicted": "B",
       "generated_text": "B. Raleigh\n\n理由：Raleigh是北卡罗来纳州的首府。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_035.png"
     },
     {
       "index": 36,
@@ -483,7 +519,8 @@
       "ground_truth": "D",
       "predicted": "B",
       "generated_text": "B. Darnell can trade his almonds for Bella's tomatoes.\n\n理由：根据图片，Bella想要西红柿，而Darnell有西红柿。因此，他们可以通过交换西红柿来满足彼此的需求。",
-      "correct": false
+      "correct": false,
+      "image_path": "sample_036.png"
     },
     {
       "index": 37,
@@ -497,7 +534,8 @@
       "ground_truth": "D",
       "predicted": "D",
       "generated_text": "D. Greta can trade her tomatoes for Allie's broccoli.\n\n理由：根据图片，Greta的午餐有西红柿，而Allie的午餐有西兰花。通过交换，Greta可以用她的西红柿换取Allie的西兰花，这样她们都可以得到自己想要的蔬菜。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_037.png"
     },
     {
       "index": 38,
@@ -511,7 +549,8 @@
       "ground_truth": "A",
       "predicted": "A",
       "generated_text": "A. Georgia\n\n理由：在给定的选项中，Georgia（乔治亚州）位于美国东部，是这些州中最东边的。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_038.png"
     },
     {
       "index": 39,
@@ -523,7 +562,8 @@
       "ground_truth": "B",
       "predicted": "B",
       "generated_text": "B. if the weather station would work when the temperature was 50°C\n\n答案是B，因为Caden设置了一个室内测试室，温度为50°C，以测试天气站是否能在高温下正常工作。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_039.png"
     },
     {
       "index": 40,
@@ -536,7 +576,8 @@
       "ground_truth": "B",
       "predicted": "B",
       "generated_text": "B. More precipitation falls in April than in August.\n\n理由：根据图表，四月份的平均降水量为158毫米，而八月份的平均降水量为10毫米。因此，四月份的降水量确实比八月份多。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_040.png"
     },
     {
       "index": 41,
@@ -548,7 +589,8 @@
       "ground_truth": "B",
       "predicted": "B",
       "generated_text": "B. the change in weight for each plant\n\n理由：在实验中，Audrey测量了四株空气植物的初始重量，并在接下来的两个月里，对其中两株植物每天喷洒水雾，对另外两株植物每周一次浸泡在水中。最后，她再次测量了植物的重量，并计算了每株植物的重量变化。因此，重量变化是实验中测量的变量，是实验的依赖变量。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_041.png"
     },
     {
       "index": 42,
@@ -562,7 +604,8 @@
       "ground_truth": "B",
       "predicted": "B",
       "generated_text": "B. Idaho\n\n理由：在给定的选项中，Idaho（爱达荷州）位于美国的最西部。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_042.png"
     },
     {
       "index": 43,
@@ -575,7 +618,8 @@
       "ground_truth": "B",
       "predicted": "B",
       "generated_text": "B. Alligator mississippiensis\n\n理由：图片中的动物是美洲短吻鳄，其科学名称是Alligator mississippiensis。选项B与图片中的动物同属一种。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_043.png"
     },
     {
       "index": 44,
@@ -588,7 +632,8 @@
       "ground_truth": "B",
       "predicted": "B",
       "generated_text": "B. rough\n\n理由：这三个物体（岩石、树皮和尼龙搭扣）都有粗糙的表面。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_044.png"
     },
     {
       "index": 45,
@@ -602,7 +647,8 @@
       "ground_truth": "B",
       "predicted": "B",
       "generated_text": "B. Honolulu\n\n理由：Honolulu 是夏威夷州的首府。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_045.png"
     },
     {
       "index": 46,
@@ -614,7 +660,8 @@
       "ground_truth": "B",
       "predicted": "B",
       "generated_text": "B. It has land that is covered with water during most of the year. It also has soil that is rich in nutrients.\n\n理由：根据图片和描述，Pantanal是一个湿地生态系统，大部分时间都被水覆盖。此外，图片中显示了丰富的土壤和多种生物，这表明Pantanal的土壤富含营养物质。因此，选项B更准确地描述了Pantanal生态系统。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_046.png"
     },
     {
       "index": 47,
@@ -629,7 +676,8 @@
       "ground_truth": "C",
       "predicted": "C",
       "generated_text": "C. 0/4\n\n理由：根据题目中的信息，基因F代表黑色毛发，是显性基因，而基因f代表棕色毛发，是隐性基因。在这个交配中，两个亲本都是Ff（黑色毛发），所以它们的后代将有四种可能的基因组合：FF（黑色）、Ff（黑色）、ff（棕色）和ff（棕色）。然而，由于基因f是隐性基因，只有当两个亲本都携带f基因时，后代才会表现出棕色毛发。在这个情况下，没有一个后代的基因组合包含两个f基因，因此没有一个后代会表现出棕色毛发。所以，概率是0/4。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_047.png"
     },
     {
       "index": 48,
@@ -641,7 +689,8 @@
       "ground_truth": "A",
       "predicted": "A",
       "generated_text": "A. European beaver\n\n理由：欧洲海狸（European beaver）的脚是适应游泳的。它们有蹼状的脚，有助于在水中游泳和划水。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_048.png"
     },
     {
       "index": 49,
@@ -654,7 +703,8 @@
       "ground_truth": "A",
       "predicted": "A",
       "generated_text": "A. Castor fiber\n\n理由：图片中的动物是欧洲海狸，其科学名称是Castor fiber。选项A是欧洲海狸的正确答案。",
-      "correct": true
+      "correct": true,
+      "image_path": "sample_049.png"
     }
   ]
 }
