@@ -284,7 +284,7 @@ class ScienceQAEvaluator:
 
 def main():
     evaluator = ScienceQAEvaluator(
-        model_name="Qwen/Qwen2-VL-7B-Instruct",
+        model_name="/root/autodl-tmp/models/Qwen2-VL-7B-Instruct",
         use_4bit=True
     )
     
