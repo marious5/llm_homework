@@ -244,7 +244,7 @@ def main():
         use_4bit=True
     )
     
-    samples = evaluator.load_dataset(num_samples=50, seed=42)
+    samples = evaluator.load_dataset(num_samples=50, seed=20)
     results = evaluator.evaluate(samples, save_results=True)
     
     print("\n" + "="*50)
