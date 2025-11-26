@@ -140,7 +140,7 @@
       ],
       "ground_truth": "A",
       "predicted": "B",
-      "generated_text": "B. each vial . . . the surroundings\n\n理由：根据表格中的数据，两个不同位置的安瓿在15分钟内温度都升高了。这意味着它们从周围环境吸收了热量，导致温度升高。因此，热量从周围环境转移到了每个安瓿。",
+      "generated_text": "B. each vial . . . the surroundings\n\n理由：根据表格中的数据，两个不同位置的安瓿在15分钟内温度都升高了。\n这意味着它们从周围环境吸收了热量，导致温度升高。因此，热量从周围环境转移到了每个安瓿。",
       "correct": false,
       "image_path": "sample_009.png"
     },
@@ -659,7 +659,7 @@
       ],
       "ground_truth": "B",
       "predicted": "B",
-      "generated_text": "B. It has land that is covered with water during most of the year. It also has soil that is rich in nutrients.\n\n理由：根据图片和描述，Pantanal是一个湿地生态系统，大部分时间都被水覆盖。此外，图片中显示了丰富的土壤和多种生物，这表明Pantanal的土壤富含营养物质。因此，选项B更准确地描述了Pantanal生态系统。",
+      "generated_text": "B. It has land that is covered with water during most of the year. It also has soil that is rich in nutrients.\n\n理由：根据图片和描述，Pantanal是一个湿地生态系统，大部分时间都被水覆盖。\n此外，图片中显示了丰富的土壤和多种生物，这表明Pantanal的土壤富含营养物质。\n因此，选项B更准确地描述了Pantanal生态系统。",
       "correct": true,
       "image_path": "sample_046.png"
     },

@@ -102,11 +102,11 @@ class GSM8KEvaluator:
             return float('inf')
     
     def create_prompt(self, question: str) -> str:
-        prompt = f"""请解决以下数学问题，并给出详细的推理过程。最后请用"答案是："的格式给出最终答案。
+        prompt = f"""请解决以下数学问题，并给出详细的推理过程。最后请用"答案是："的格式给出最终答案（1个数字）。
 
 问题：{question}
 
-请一步步思考并解答："""
+请一步步思考并解答"""
         return prompt
     
     def generate_answer(self, question: str, max_new_tokens: int = 512) -> str:
